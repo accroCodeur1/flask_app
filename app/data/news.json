@@ -1,0 +1,22 @@
+[
+    {
+      "title": "Nouvelle fonctionnalité",
+      "date": "2023-06-10",
+      "content": "Nous avons lancé une nouvelle fonctionnalité!"
+    },
+    {
+      "title": "Maintenance planifiée",
+      "date": "2023-06-12",
+      "content": "Maintenance prévue le 15 juin à 2h du matin."
+    },
+    {
+        "title": "Nouvelle fonctionnalité",
+        "date": "2023-06-10",
+        "content": "Nous avons lancé une nouvelle fonctionnalité!"
+    },
+    {
+        "title": "Maintenance planifiée",
+        "date": "2023-06-12",
+        "content": "Maintenance prévue le 15 juin à 2h du matin."
+    }
+  ]

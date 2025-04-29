@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Plateforme de contenu</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <h1>Bienvenue sur notre plateforme</h1>
+    
+    <section id="news">
+        <h2>Actualités</h2>
+        <div id="news-container"></div>
+    </section>
+    
+    <section id="events">
+        <h2>Événements</h2>
+        <div id="events-container"></div>
+    </section>
+    
+    <script src="{{ url_for('static', filename='app.js') }}"></script>
+</body>
+</html>

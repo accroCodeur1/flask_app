@@ -1,0 +1,32 @@
+[
+    {
+      "title": "Conférence sur les technologies Cloud",
+      "date": "2023-07-10",
+      "description": "Une journée complète dédiée aux dernières innovations cloud avec des experts Azure et AWS.",
+      "location": "Paris, France"
+    },
+    {
+      "title": "Atelier Docker/Kubernetes",
+      "date": "2023-07-15",
+      "description": "Apprenez à conteneuriser vos applications et à les déployer avec Kubernetes.",
+      "location": "En ligne"
+    },
+    {
+      "title": "Hackathon Développement Web",
+      "date": "2023-07-22",
+      "description": "24 heures non-stop pour développer la meilleure application web avec Flask et React.",
+      "location": "Lyon, France"
+    },
+    {
+      "title": "Meetup Python",
+      "date": "2023-08-05",
+      "description": "Rencontrez la communauté Python locale et découvrez les dernières tendances.",
+      "location": "Toulouse, France"
+    },
+    {
+      "title": "Formation CI/CD avec GitHub Actions",
+      "date": "2023-08-12",
+      "description": "Maîtrisez les pipelines d'intégration et déploiement continus.",
+      "location": "En ligne"
+    }
+  ]
